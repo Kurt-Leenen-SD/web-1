@@ -10,11 +10,20 @@ article{
     margin: auto;
 }
 
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
 .kurt{
     display:block;
     margin: auto;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: auto;
+    border-radius: 200px;
 }
 
 article ol{
@@ -31,4 +40,8 @@ article ol{
     align-content: center;
     align-items: center;
     text-decoration: none; 
+}
+
+.FlexBox {
+    display: flex;
 }

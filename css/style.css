@@ -45,3 +45,16 @@ article ol{
 .FlexBox {
     display: flex;
 }
+
+.Footer {
+    background-color: rgba(4, 113, 2, 0.6);
+}
+
+.DMbutton {
+    background-color: wheat;
+}
+
+.dark-modebody{
+    background-color: black;
+    color: white;
+}
